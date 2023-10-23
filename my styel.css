@@ -1,0 +1,108 @@
+.box1{
+    font-size: 85px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    }
+.box2{
+     font-size: 30px;
+     text-align: center;
+     margin-top: 10px;
+     margin-bottom: 10px
+}
+.box3{
+    font-size: 30px;
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 10px
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+    font-family: 'Playpen Sans', cursive;
+    
+
+}
+li{
+    display: inline;
+    font-size: 20px;
+     background-color: rgb(226, 236, 207);
+     border: 1px solid;
+    text-align: center; 
+    border: 1px solid black ; 
+
+}
+.h3{
+    font-size: 30px;
+background-color: green;
+ border-style: double;
+ border-color: rgb(32, 44, 32);
+ border-width: 2px;
+
+}
+.nav{
+    background-image:url(مطبخ.PNG) ;
+   background-size: 1500px;
+   background-position: center;
+   background-repeat: no-repeat;
+   width: 1500px;
+   height: 600px;
+}
+.tips{
+    background-image:url(tips.PNG) ;
+   background-size: 1500px;
+   background-position: center;
+   background-repeat: no-repeat;
+   width: 1500px;
+   height: 700px;
+}
+.input{
+    font-size: 30px;
+}
+.text1{
+    font-size: 50px;
+    text-align: left;
+    text-transform: uppercase;
+    color: #9fb893;
+}
+.text2{
+    font-size: 30px;
+    text-align: left;
+    text-transform: uppercase;
+    color: #1d412b;
+}
+
+.paragraph{
+    font-size: 20px;
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+font-family: 'Bebas Neue', sans-serif;
+font-family: 'Playpen Sans', cursive;
+}
+.video{
+    background-image: url(20220604191834.jpg);
+    background-position: center;
+   background-repeat: no-repeat;
+   background-size: 2800px;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+   
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+    font-size: 30px;
+  }
+  
+  
+  .h{
+    background-image: url(table.PNG);
+    background-position: center;
+   background-repeat: no-repeat;
+   background-size: 1500px;
+   width: 1500px;
+   height: 400px;
+  }
+  #out{
+    width: 200px;
+    height: 50px;
+  }
